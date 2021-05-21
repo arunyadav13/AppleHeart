@@ -1,0 +1,11 @@
+  =>  Template Name    : Apple Heart - Construction Company Website Template
+
+  =>  Template Link    : contact.html
+
+  =>  Template License : http://aksyssoftware.com//license (or read the LICENSE.txt file)
+
+  =>  Template Author  : AKsys Softwares
+
+  =>  Author Website   : http://aksyssoftware.com/
+
+  =>  About AKsys Softwares : AKsys Softwares is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( http://aksyssoftware.com//about-us )
